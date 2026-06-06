@@ -1,16 +1,18 @@
-## Hi there 👋
+# Fabio Andreatta
 
-<!--
-**andreattafabio/andreattafabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of [StudioFab](https://studiofab.nl) -- web design & digital marketing in Friesland, NL.
 
-Here are some ideas to get you started:
+Building websites that convert. Currently shipping with React, TypeScript, Tailwind, and lots of vibes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- Client websites and web apps at [StudioFab](https://studiofab.nl)
+- AI consulting for businesses at [StudioFab](https://studiofab.nl/diensten/ai-consulting/)
+- Accepting Bitcoin for web services
+
+## Links
+
+- [studiofab.nl](https://studiofab.nl)
+- [fabioandreatta.com](https://fabioandreatta.com)
+- [LinkedIn](https://linkedin.com/in/andreattafabio)
+- [X / Twitter](https://x.com/fabioandreatta)
