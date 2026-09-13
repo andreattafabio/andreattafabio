@@ -56,3 +56,11 @@ scope and limitations; do not append full session transcripts to startup files.
 Use a short decision record for durable choices: context, decision, alternatives,
 consequences, owner/approval and superseded decision. Review release evidence again
 after integration. Merge and production/provider changes require separate authority.
+
+## Repeatable documentation check
+
+Run `node scripts/check-documentation.mjs --self-test` and
+`node scripts/check-documentation.mjs` from the repository root. See the
+[documentation quality policy](DOCUMENTATION-QUALITY.md) for coverage, limitations
+and the update triggers that keep the handoff useful. This supplements, not
+replaces, the application checks above.
