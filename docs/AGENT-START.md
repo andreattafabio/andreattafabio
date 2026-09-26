@@ -64,3 +64,9 @@ Run `node scripts/check-documentation.mjs --self-test` and
 [documentation quality policy](DOCUMENTATION-QUALITY.md) for coverage, limitations
 and the update triggers that keep the handoff useful. This supplements, not
 replaces, the application checks above.
+
+## Repository maintenance
+
+See [repository hygiene](REPOSITORY-HYGIENE.md) for the refreshed command inventory,
+tracked-file review notices and safe maintenance boundaries. See also
+[contributing](../CONTRIBUTING.md) and [security reporting](../SECURITY.md).

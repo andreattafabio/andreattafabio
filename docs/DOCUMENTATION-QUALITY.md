@@ -21,16 +21,13 @@ Materialize checked files before running in a sparse checkout; unavailable conte
 is an error, not a silently skipped success.
 
 It checks these living guides: root README and AGENTS, agent starting point,
-handoff template and this policy; plus existing root CONTRIBUTING/SECURITY/ARCHITECTURE/ARCHITECTURE and
+handoff template and this policy; plus existing root CONTRIBUTING/SECURITY/ARCHITECTURE and
 core docs README/ARCHITECTURE/CONTRIBUTING/TESTING/DEPLOYMENT/configuration guides.
 It verifies common inline Markdown link/image paths, ATX-heading anchors (including
 duplicate headings), explicit HTML anchors, required guide presence, and package
 script names declared in the starting-point guide. Known generated promotional
 patterns are rejected in the root README, application HTML outside docs/scratchpad,
 and JavaScript/TypeScript under src, app, components, lib and data. Identity assets are compared with exact
-Git blob hashes of visually verified legacy generator icons and social imagery.
-Indexed hashes detect renamed copies too; altered visual variants still require
-manual inspection. This is an integrity identifier, not a security hash claim. Identity assets are compared with exact
 Git blob hashes of visually verified legacy generator icons and social imagery.
 Indexed hashes detect renamed copies too; altered visual variants still require
 manual inspection. This is an integrity identifier, not a security hash claim.
