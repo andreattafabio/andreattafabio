@@ -1,0 +1,6 @@
+
+
+# Operating-system metadata (does not untrack existing files)
+.DS_Store
+Thumbs.db
+desktop.ini
