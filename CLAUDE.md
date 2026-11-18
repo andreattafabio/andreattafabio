@@ -5,9 +5,10 @@ This repo has only that file. There is no site, no build and no Netlify deploy.
 
 ## What is in it
 
-- `README.md`: who Fab is (founder of StudioFab, Friesland), what Fab builds, how Fab works, current work, links.
+- `README.md`: centred header with link and stack badges (shields.io), About, What I build, How I work, Find my work, Contact.
+- Facts come only from studiofab.nl (`/over/`, `/llms.txt`). No numbers that can go stale (case counts, review scores).
 - Links: studiofab.nl, fabioandreatta.com, LinkedIn (`andreattafabio`), X (`fabioandreatta`).
-- Stack line: React, TypeScript, Vite, Tailwind CSS, Supabase, Netlify. Keep it true when the stack changes.
+- Stack badges: React, TypeScript, Vite, Astro, Tailwind CSS, Supabase, Netlify, Cloudflare Pages. Keep them true when the stack changes.
 
 ## How a change goes live
 
